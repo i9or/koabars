@@ -1,6 +1,6 @@
 {
   "name": "koabars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Koa2 Handlebars middleware",
   "main": "index.js",
   "scripts": {
